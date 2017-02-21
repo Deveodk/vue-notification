@@ -1,6 +1,6 @@
 {
   "name": "@deveodk/vue-notification",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Easy notification plugin for vue.js",
   "main": "main.js",
   "scripts": {
